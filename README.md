@@ -1,5 +1,5 @@
 ## Pong Asio
-Basic Pong game playable online. The two client instances needs a server for running.
+Basic Pong game playable online. The two client instances need a server for running.
 
 ### Requirements
 This project uses [Boost.Asio](https://www.boost.org/doc/libs/latest/doc/html/boost_asio.html) for networking, and [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.32.4) + [SDL2_TTF](https://github.com/libsdl-org/SDL_ttf/releases/tag/release-2.24.0) for rendering.
